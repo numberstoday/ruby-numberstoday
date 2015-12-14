@@ -6,7 +6,7 @@ reliable enough to put it in production yet.
 `gem install numberstoday`
 
 # Todo
-[ ] Fetching specific entries
-[ ] Create new entries (depends on numbers.today API implementation)
-[ ] Proper documentation
-[ ] Tests
+* [ ] Fetching specific entries
+* [ ] Create new entries (depends on numbers.today API implementation)
+* [ ] Proper documentation
+* [ ] Tests
